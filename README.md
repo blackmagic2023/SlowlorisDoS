@@ -48,6 +48,10 @@ The tool will then start sending incomplete HTTP requests to the target.
 
 This tool should only be used in controlled environments where you have explicit permission from the network owner. Unauthorized usage can lead to serious legal consequences.
 
+# License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 # Disclaimer
 
 This software is provided "as-is" without any warranties. The author is not responsible for any damages caused by the misuse of this tool.
